@@ -1,2 +1,2 @@
 # taskup
-Task control application
+Task Monitoring Application
